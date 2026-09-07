@@ -1,0 +1,13 @@
+# CUDA/C++ build products
+aes
+*.o
+*.obj
+*.so
+*.a
+
+# Editor and OS metadata
+.vscode/
+.idea/
+*~
+*.swp
+*:Zone.Identifier
